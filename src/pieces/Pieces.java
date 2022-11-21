@@ -11,6 +11,5 @@ public abstract class Pieces {
   public abstract boolean deplacementOK(int departL, int departC, int arriveL,
     int arriveC);
 
-  // mouvement fait ajouter couleur blanche noir enum ou boolean
 
 }
